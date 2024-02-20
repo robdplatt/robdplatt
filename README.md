@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a software engineer with over two decades of experience in developing full-stack custom solutions. Proficient in .NET (C#/VB), Javascript/CSS, database design and administration (MSSQL, MySQL), and managing Windows services and environments (Exchange, IIS, SQL, etc). 
+
+Some of my achievements include developing Cost Recovery Billing software complete with Credit Card processing, custom fax solutions, commercializing Medical Billing software, and building a HIPAA-compliant data center for Patient Care Records management.
+
+I have been a leader, problem solver, and integration/deployment specialist.
+
+I've been passionate about working with First Responders by providing cost-recovery and support solutions that improve operations.
+
+I enjoy making life easier for those I work with by developing automated solutions.
